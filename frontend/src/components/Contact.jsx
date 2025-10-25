@@ -206,7 +206,7 @@ const Contact = () => {
             href="mailto:akshithrao190@gmail.com"
             className="font-medium text-white text-lg hover:text-blue-400 transition duration-300"
           >
-            akshithrao190@example.com
+            akshithrao190@gmail.com
           </a>
 
           <div className="flex justify-center gap-6 mt-8">
