@@ -203,7 +203,7 @@ const Contact = () => {
         <div className="mt-10 text-center">
           <p className="text-gray-300 mb-2">Or reach me at:</p>
           <a
-            href="mailto:akshithrao190@example.com"
+            href="mailto:akshithrao190@gmail.com"
             className="font-medium text-white text-lg hover:text-blue-400 transition duration-300"
           >
             akshithrao190@example.com
