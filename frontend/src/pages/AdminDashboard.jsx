@@ -7,7 +7,7 @@ const AdminDashboard = () => {
   useEffect(() => {
     const fetchMessages = async () => {
       try {
-        const res = await axios.get("http://localhost:5000/api/messages");
+        const res = await axios.get("https://portfolio-ros7.onrender.com/api/messages");
         setMessages(res.data);
       } catch (err) {
         console.error(err);
