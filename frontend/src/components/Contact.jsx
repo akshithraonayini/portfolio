@@ -8,7 +8,7 @@ const Contact = () => {
   const [loading, setLoading] = useState(false);
 
   // Backend URL from Vercel environment variable
-  const BACKEND_URL = process.env.REACT_APP_BACKEND_URL || "http://localhost:5000";
+  const BACKEND_URL = "portfolio-ros7.onrender.com" || "http://localhost:5000";
 
   // Generate stars and handle mouse movement
   useEffect(() => {
