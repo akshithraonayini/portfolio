@@ -159,7 +159,7 @@ const About = () => {
             <p className="mb-4 text-white font-medium">Notable achievements include:</p>
             <div className="flex flex-wrap gap-3 justify-center md:justify-start">
               <span className="px-5 py-3 bg-gradient-to-r from-blue-500 to-blue-600 text-white rounded-full text-sm font-medium shadow-lg shadow-blue-500/50 transform hover:scale-110 transition-all duration-300 hover:shadow-xl hover:shadow-blue-500/70 cursor-pointer border border-blue-400/30">
-                🏆 400+ LeetCode Problems
+                🏆 500+ LeetCode Problems
               </span>
               <span className="px-5 py-3 bg-gradient-to-r from-purple-500 to-purple-600 text-white rounded-full text-sm font-medium shadow-lg shadow-purple-500/50 transform hover:scale-110 transition-all duration-300 hover:shadow-xl hover:shadow-purple-500/70 cursor-pointer border border-purple-400/30">
                 💡 Hackathon Participant
