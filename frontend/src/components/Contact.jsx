@@ -49,7 +49,7 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
     try {
-      const res = await fetch(`${BACKEND_URL}/messages`, {
+      const res = await fetch(`${BACKEND_URL}/api/messages`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(form),
