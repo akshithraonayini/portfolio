@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 const Leetcode = () => {
   const [stats, setStats] = useState(null);
   const [isVisible, setIsVisible] = useState(false);
-  const username = "akshithraonayini";
+  const username = "nayini_akshith_190";
 
   useEffect(() => {
     fetch(`https://leetcode-stats-api.herokuapp.com/${username}`)
