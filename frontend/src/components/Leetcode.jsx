@@ -141,7 +141,7 @@ const Leetcode = () => {
           <div className="absolute -top-2 -right-2 w-4 h-4 bg-yellow-400 rounded-full animate-ping shadow-lg shadow-yellow-400/50"></div>
           <div className="absolute -bottom-2 -left-2 w-3 h-3 bg-blue-400 rounded-full animate-bounce shadow-lg shadow-blue-400/50"></div>
         </h2>
-        {/* <p className="text-center text-gray-300 text-lg">@{username}</p> */}
+        <p className="text-center text-gray-300 text-lg">@{username}</p>
       </div>
 
       {/* Total Stats Card - Featured */}
