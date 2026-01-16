@@ -124,7 +124,7 @@ const Hero = () => {
             <div className="absolute inset-0 bg-gradient-to-r from-cyan-600 to-blue-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
           </a>
           <a
-            href="/aks_resume.pdf"
+            href="/resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative border-2 border-cyan-400 text-cyan-400 px-8 py-4 rounded-full font-semibold overflow-hidden transform transition-all duration-300 hover:scale-110 hover:shadow-2xl hover:shadow-cyan-500/50"
